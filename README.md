@@ -1,1 +1,2 @@
 # FassionMNIST
+（normal code）
