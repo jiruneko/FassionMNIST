@@ -1,2 +1,2 @@
 # FassionMNIST
-（normal code）
+normal code　（not a jupyter notebook）
